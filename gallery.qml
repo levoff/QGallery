@@ -55,7 +55,6 @@ import Qt.labs.settings
 
 import "." as App
 
-
 import QtQuick.Window 2.15
 
 

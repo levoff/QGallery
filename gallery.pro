@@ -2,6 +2,8 @@ TEMPLATE = app
 TARGET = gallery
 QT += quick quickcontrols2
 
+CONFIG+=qtquickcompiler
+
 SOURCES += \
     gallery.cpp
 
